@@ -1,0 +1,14 @@
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\bin\Debug\net9.0\PilarHeranca.exe
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\bin\Debug\net9.0\PilarHeranca.deps.json
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\bin\Debug\net9.0\PilarHeranca.runtimeconfig.json
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\bin\Debug\net9.0\PilarHeranca.dll
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\bin\Debug\net9.0\PilarHeranca.pdb
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\obj\Debug\net9.0\PilarHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\obj\Debug\net9.0\PilarHeranca.AssemblyInfoInputs.cache
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\obj\Debug\net9.0\PilarHeranca.AssemblyInfo.cs
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\obj\Debug\net9.0\PilarHeranca.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\obj\Debug\net9.0\PilarHeranca.dll
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\obj\Debug\net9.0\refint\PilarHeranca.dll
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\obj\Debug\net9.0\PilarHeranca.pdb
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\obj\Debug\net9.0\PilarHeranca.genruntimeconfig.cache
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarHeranca\obj\Debug\net9.0\ref\PilarHeranca.dll

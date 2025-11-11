@@ -1,0 +1,14 @@
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\obj\Debug\net9.0\PilarPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\obj\Debug\net9.0\PilarPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\obj\Debug\net9.0\PilarPolimorfismo.AssemblyInfo.cs
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\obj\Debug\net9.0\PilarPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\bin\Debug\net9.0\PilarPolimorfismo.exe
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\bin\Debug\net9.0\PilarPolimorfismo.deps.json
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\bin\Debug\net9.0\PilarPolimorfismo.runtimeconfig.json
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\bin\Debug\net9.0\PilarPolimorfismo.dll
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\bin\Debug\net9.0\PilarPolimorfismo.pdb
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\obj\Debug\net9.0\PilarPolimorfismo.dll
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\obj\Debug\net9.0\refint\PilarPolimorfismo.dll
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\obj\Debug\net9.0\PilarPolimorfismo.pdb
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\obj\Debug\net9.0\PilarPolimorfismo.genruntimeconfig.cache
+C:\Users\marcelo.soliveira38\Desktop\Logica de Programação\04 - Desenvolvimento em C#\BACKEND\PilarPolimorfismo\obj\Debug\net9.0\ref\PilarPolimorfismo.dll

@@ -1,0 +1,14 @@
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\bin\Debug\net9.0\meuPrimeiroProjeto.exe
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\bin\Debug\net9.0\meuPrimeiroProjeto.deps.json
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\bin\Debug\net9.0\meuPrimeiroProjeto.runtimeconfig.json
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\bin\Debug\net9.0\meuPrimeiroProjeto.dll
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\bin\Debug\net9.0\meuPrimeiroProjeto.pdb
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\obj\Debug\net9.0\meuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\obj\Debug\net9.0\meuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\obj\Debug\net9.0\meuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\obj\Debug\net9.0\meuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\obj\Debug\net9.0\meuPrimeiroProjeto.dll
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\obj\Debug\net9.0\refint\meuPrimeiroProjeto.dll
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\obj\Debug\net9.0\meuPrimeiroProjeto.pdb
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\obj\Debug\net9.0\meuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\marcelo.soliveira38\Desktop\BACKEND\meuPrimeiroProjeto\obj\Debug\net9.0\ref\meuPrimeiroProjeto.dll
