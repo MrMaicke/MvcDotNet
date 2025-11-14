@@ -5,25 +5,25 @@ using MeuPrimeiroMvc.Models;
 namespace MeuPrimeiroMvc.Controllers
 {
     [Route("[controller]")]
-    public class EquipeController : Controller
+    public class JogadorController : Controller
     {
         // Criando uma referência (instância) sobre a comunicação do meu banco de dados
-        ProjetoTesteContext _context = new ProjetoTesteContext();
+        ProjetoTesteContext _context = new();
  
         public IActionResult Index()
         {
-            var listaEquipes = _context.Equipes.ToList();
+            var listaJogadores = _context.Jogadors.ToList();
  
-            // Passar a tela (em forma de memoria) os dados das equipes cadastradas
-            ViewBag.listaEquipes = listaEquipes;
+            // Passar a tela (em forma de memoria) os dados das Jogadores cadastradas
+            ViewBag.listaJogadores = listaJogadores;
  
             return View();
         }
  
         [Route("cadastrar")]
-        public IActionResult CadastroEquipe(Equipe equipe)
+        public IActionResult CadastroJogador(Jogador Jogador)
         {
-            _context.AddAsync(equipe);
+            _context.AddAsync(Jogador);
             //registrear alteracoes no banco de daods
            
             _context.SaveChanges();
